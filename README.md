@@ -33,14 +33,14 @@ Built with Python for data cleaning and EDA, and Tableau for interactive dashboa
 - **Data visualization** – Created bar charts, line graphs, histograms, and heatmaps (with Seaborn/Matplotlib) to highlight geographical trends, cuisine popularity, booking/delivery ratios, cost, and rating variations.
 
 ### 3. Dashboard Features
-- **Dynamic filters** for rating threshold, votes, service options, and geography
-- **Highlight visuals** (maps, bar charts, KPI cards) that spotlight star restaurants
-- **Overview metrics** showing counts of starred venues by city/cuisine
+- **Dynamic filters** for rating threshold, votes, service options, and geography.
+- **Highlight visuals** (maps, bar charts, KPI cards) that spotlight star restaurants.
+- **Overview metrics** showing counts of starred venues by city/cuisine.
 - **Criteria for “Star” Restaurants**
   Aggregate rating ≥ 4.5,
   Votes > 100,
   Offers both table booking and online delivery, and
-  Widespread presence across cities or cuisines
+  Widespread presence across cities or cuisines.
 
 
 ##  Insights
@@ -58,22 +58,22 @@ Built with Python for data cleaning and EDA, and Tableau for interactive dashboa
 ###  Conclusion  
 The analysis revealed that:
 - **Online delivery** and **table booking** correlate with higher ratings, reflecting evolving consumer expectations—even amid price and geography variations.  
-- Most diners stick to a **mid-range budget (~₹150–300 per person)**—consistent with casual dining trends in India  
-- **No single factor** (cost, cuisine count, weather, etc.) strongly determines ratings; instead, holistic experiences like service, convenience, and reputation play the primary role 
+- Most diners stick to a **mid-range budget (~₹150–300 per person)**—consistent with casual dining trends in India.  
+- **No single factor** (cost, cuisine count, weather, etc.) strongly determines ratings; instead, holistic experiences like service, convenience, and reputation play the primary role.
 
 ###  Recommendations
 
 1. **Enhance Online Presence**  
-   Prioritize improving online ordering and delivery systems—70% of customers expect this as a standard, and those features often drive higher spend and satisfaction 
+   Prioritize improving online ordering and delivery systems—70% of customers expect this as a standard, and those features often drive higher spend and satisfaction. 
 
 2. **Focus on Mid-Range Pricing**  
-   Promote options around ₹300 for two—84% of casual diners in India choose meals under ₹500, and this sweet spot aligns with both affordability and perceived value 
+   Promote options around ₹300 for two—84% of casual diners in India choose meals under ₹500, and this sweet spot aligns with both affordability and perceived value. 
 
 3. **Target Dining Promotions**  
-   Since dine-in venues receive more votes and ratings, restaurants should design special offers (e.g., loyalty programmes, themed events) to boost engagement and footfall
+   Since dine-in venues receive more votes and ratings, restaurants should design special offers (e.g., loyalty programmes, themed events) to boost engagement and footfall.
 
 4. **Build a Strong Reputation**  
-   Invest in online reputation management; even a one-star rise in review can yield a 5–9% revenue increase, underscoring the value of quality and reviews 
+   Invest in online reputation management; even a one-star rise in review can yield a 5–9% revenue increase, underscoring the value of quality and reviews. 
 
 
 
